@@ -1,0 +1,31 @@
+#container{
+    margin: auto;
+    max-Width: 960px;
+    Padding: 20px;
+    border: 2px solid grey;
+    Overflow: auto;
+    margin-top: 20px;
+    
+}
+.flex{
+    display: flex;
+    gap: 50px;
+}
+#left{
+    float: left !important;
+    border: 2px solid grey;
+    padding: 10px;
+ 
+   
+}
+
+.fotograf img{
+    margin-top: 20px;
+}
+#right{
+    float: left !important;
+    border: 2px solid grey;
+    padding: 10px;
+
+
+}
